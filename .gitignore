@@ -1,0 +1,19 @@
+# Operating System
+.DS_Store
+Thumbs.db
+
+# IDE or Editor
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# ProgramLanguage relative
+node_modules/
+
+# misc
+*.log
+
+# project
+dist/
+yarn.lock

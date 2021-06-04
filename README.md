@@ -30,10 +30,7 @@
 
 ### CSS Selector
 
-tagA,
-tagA tagB,
-#id,
-.class,
+// TODO describe CSS key features
 
 ### AST Query
 
